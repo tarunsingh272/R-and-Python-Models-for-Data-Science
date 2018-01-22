@@ -1,0 +1,7 @@
+- preprocessing
+- one hot encoding/ creating dummy for categorical data
+- scaling or standardising
+- imputation of missing values
+- removing outliers
+- transformation logarithmic or sqrt 
+- sparse matrix issues

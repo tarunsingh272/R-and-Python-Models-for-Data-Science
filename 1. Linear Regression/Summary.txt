@@ -1,0 +1,14 @@
+- Model Fitting
+- Model Selection/Evaluation
+- Assumptions of Linear Regression
+- Problems in Regression
+- p value
+- R square vs Adjusted R Square
+- RMSE,MSE,SSE
+- Residuals Plots
+
+R - base library, caret library
+Links in .R file
+
+Python - statsmodels, scikit learn
+http://www.dataschool.io/linear-regression-in-python/

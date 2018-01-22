@@ -1,0 +1,14 @@
+http://www.dataschool.io/machine-learning-with-scikit-learn/
+https://www.ramp.studio/problems/boston_housing : RAMP
+
+
+IMBALANCED CLASSIFIER
+http://www.marcoaltini.com/blog/dealing-with-imbalanced-data-undersampling-oversampling-and-proper-cross-validation
+https://elitedatascience.com/imbalanced-classes
+https://www.kdnuggets.com/2016/04/unbalanced-classes-svm-random-forests-python.html/2
+
+SMOTE Algorithm : synthetic samples
+
+
+
+
